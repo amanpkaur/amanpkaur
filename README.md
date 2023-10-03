@@ -19,7 +19,7 @@ Needless to say, I still love the mysteries of our Universe and happy to talk ab
 
 ## 💼 My Projects
 
-- Check my [repository](https://github.com/amanpkaur) for now- this is a work in progress 
+- Check my [repositories](https://github.com/amanpkaur?tab=repositories) for now- this is a work in progress 
 
 ## 📫 How to Reach Me
 
