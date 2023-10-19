@@ -13,9 +13,12 @@ Needless to say, I still love the mysteries of our Universe and happy to talk ab
 - Data Analysis/Visualization with Python
 - Machine Learning Models (Forecasting/Predicitve and Classification)
 
-## 🌱 What I'm Currently Learning
+## 🌱 What I'm Currently Learning/Doing
 
-- Working on a machine learning project with end-to-end implementation. 
+- Working on a self identified machine learning project with an end-to-end implementation. I am collaborating with 3 people who I met through different platforms.
+- Volunteering at Omdena for predicting the Unemployment Rate in Kenya
+- Engaging in DIY Halloween decoration projects that showcase my creativity and earn the appreciation of my friendly neighbors.
+  
 
 ## 💼 My Projects
 
